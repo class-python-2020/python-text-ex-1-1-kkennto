@@ -12,3 +12,5 @@ class MyClass:
 
     def sum(self):
         return self.a + self.b
+
+
